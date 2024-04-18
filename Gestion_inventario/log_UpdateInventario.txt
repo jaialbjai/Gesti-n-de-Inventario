@@ -1,0 +1,11 @@
+ACTUALIZANDO INVENTARIO...
+Se AUMENTA la cantidad de Producto C
+Se ELIMINA el Producto D
+Se AUMENTA la cantidad de Producto H
+Se DISMINUYE la cantidad de Producto I
+Se ELIMINA el Producto M
+Se DISMINUYE la cantidad de Producto N
+Se DISMINUYE la cantidad de Producto O
+Se ELIMINA el Producto P
+Se ELIMINA el Producto Q
+INVENTARIO ACTUALIZADO

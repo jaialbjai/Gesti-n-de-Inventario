@@ -1,0 +1,18 @@
+nombre% stock% stock_minimo% stock_maximo% descontinuado
+Producto A% 10% 5% 20% 0
+Producto B% 25% 10% 30% 0
+Producto C% 3% 5% 15% 0
+Producto D% 30% 10% 25% 1
+Producto E% 40% 20% 50% 0
+Producto F% 8% 5% 20% 0
+Producto G% 15% 10% 30% 0
+Producto H% 2% 5% 15% 0
+Producto I% 35% 10% 25% 0
+Producto J% 45% 20% 50% 0
+Producto K% 5% 5% 20% 0
+Producto L% 20% 10% 30% 0
+Producto M% 4% 5% 15% 1
+Producto N% 50% 10% 25% 0
+Producto O% 60% 20% 50% 0
+Producto P% 30% 20% 50% 1
+Producto Q% 10% 20% 50% 1
